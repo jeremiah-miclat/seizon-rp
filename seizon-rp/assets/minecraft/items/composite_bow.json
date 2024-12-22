@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:item/composite_bow",
+    "fallback": {
+      "type": "model",
+      "model": "item/bow"
+    }
+  }
+}

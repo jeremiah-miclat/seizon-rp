@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:item/halo_boots",
+    "fallback": {
+      "type": "model",
+      "model": "item/netherite_boots"
+    }
+  }
+}

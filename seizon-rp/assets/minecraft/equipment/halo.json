@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:halo_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:halo_armor"
+      }
+    ]
+  }
+}
